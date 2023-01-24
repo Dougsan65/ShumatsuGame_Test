@@ -15,3 +15,8 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+
+
+(name).client.lua = local script
+(name).server.lua = default script
